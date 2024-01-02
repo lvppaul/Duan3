@@ -1,0 +1,9 @@
+* {
+  font-size: 40px;
+  text-decoration: none;
+  color: black;
+}
+
+[title$="pic"] {
+  color: blue;
+}
